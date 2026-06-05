@@ -1,0 +1,25 @@
+nav a:hover {
+    color: #1E90FF;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+    transition: .3s;
+}
+
+.feature:hover {
+    transform: translateY(-8px);
+    transition: .3s;
+}
+
+button {
+    background-color: #D72638;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #111111;
+    cursor: pointer;
+}
